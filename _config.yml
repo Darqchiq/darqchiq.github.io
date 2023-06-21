@@ -10,17 +10,17 @@
 
 title: darqchiq                          # the main title
 
-tagline: CTF Player # it will display as the sub-title
+tagline: infosec | auditing | forensics # it will display as the sub-title
           
 description: >-                        # used by seo meta and the atom feed
-  Realm of Knowledge
+  Game of Hacks
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://darqchiq.github.io'
 
 author: Sharon kinya               # change to your full name
 
-avatar: /assets/img/sample/profile.jpg   # support internet resources
+avatar: /assets/img/Posts/profile.jpeg   # support internet resources
 
 github:
   username: darqchiq             # change to your github username
