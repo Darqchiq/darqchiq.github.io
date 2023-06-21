@@ -29,11 +29,11 @@ twitter:
   username: ColdFusionX_            # change to your twitter username
 
 social:
-  name: Mayank Deshmukh                  # it will shows as the copyright owner in Footer
+  name: sharon kinya                  # it will shows as the copyright owner in Footer
   email: coldfusionx@outlook.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/ColdFusionX_      # change to your twitter homepage
+    - https://twitter.com/darqchiq      # change to your twitter homepage
     - https://github.com/darqchiq       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
